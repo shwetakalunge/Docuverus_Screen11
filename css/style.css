@@ -11,6 +11,7 @@ body{
     margin: auto;
     margin-top: 25px;
     background-color: #FEFEFE;
+    max-width:100%;
 }
 header,h4,div_YellowNote{
     text-align: center;
@@ -21,8 +22,7 @@ header,h4,div_YellowNote{
 .div_YellowNote{
  background: #F5F39B; 
 box-sizing: border-box;
-    border: 1px solid red;
-    padding: 15px;
+       padding: 15px;
      width: 70%;
     margin: auto;
 }
@@ -124,11 +124,13 @@ line-height: 19px;
 font-family: Segoe UI;
 font-style: normal;
 font-size: 12px;
-line-height: 15px;
-}
-.p_1,{
+line-height: 8px;
+
+ }
+.p_1{
     font-family: Segoe UI;
     font-size: 12px;
+   
 }
 .p_commnets text{
   margin-left: 20px;
