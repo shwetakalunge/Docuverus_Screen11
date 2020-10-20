@@ -1,0 +1,246 @@
+html{
+    background: #EEEEEE;
+    
+}
+
+body{
+    background:  #EEEEEE;
+}
+.main_class{
+    width: 70%;
+    margin: auto;
+    margin-top: 25px;
+    background-color: #FEFEFE;
+}
+header,h4,div_YellowNote{
+    text-align: center;
+}
+.div_YellowNote{
+    text-align: center;
+}
+.div_YellowNote{
+ background: #F5F39B; 
+box-sizing: border-box;
+    border: 1px solid red;
+    padding: 15px;
+     width: 70%;
+    margin: auto;
+}
+.div_BorderFirst{
+     border: 1px solid #C4C4C4;
+    margin-top: 20px;
+      width: 80%;
+    margin-left: 10%;
+    margin-bottom: 20px;
+}
+.div_BlueNote{
+    background: #D9EDF7;
+    margin-top: 25px;
+     width: 99%;
+   margin: auto;
+    font-size: 12px;margin-bottom: 20px;
+}
+ /*<!------------------------------Proof Of Identity-------------------------------------------------------------------------------------->*/
+.div_ProofOfidentity{
+    background: #2DC3E8;
+    margin-top: 20px;
+     width: 90%;
+   margin: auto;
+}
+.div_ProofOfidentity text{
+    color: white;
+    margin-left: 20px;
+    
+}
+.div_Paragraph_First{
+    box-sizing: border-box;
+   border:  1px solid #C4C4C4;
+    width: 90%;
+   margin: auto; 
+    margin-bottom: 20px;
+}
+.div_Paragraph_First p{
+     margin-left: 20px;
+    font-family: Segoe UI;
+font-style: normal;
+font-size: 12px;
+line-height: 19px;
+}
+.flex_row1{
+    display:flex;
+}
+ /* <!------------------------------------Proof of SSN-------------------------------------------------------------------------------------------->*/
+.div_ProofOfSSN{
+     background: #2DC3E8;
+    margin-top: 20px;
+     width: 90%;
+   margin: auto;
+}
+.div_ProofOfSSN text{
+    color: white;
+    margin-left: 20px;
+    font-family: Segoe UI;
+font-style: normal;
+    }
+.div_Paragraph_Second{
+    box-sizing: border-box;
+   border:  1px solid #C4C4C4;
+    width: 90%;
+   margin: auto; 
+    margin-bottom: 20px;
+}
+.div_Paragraph_Second p{
+ margin-left: 20px;
+font-family: Segoe UI;
+font-style: normal;
+font-size: 12px;
+line-height: 19px;
+}
+/*---------------------------------------Proof Of Income-------------------------------------------------------------------------------------------------*/
+.div_Proofof_Income{
+    background: #2DC3E8;
+     width: 90%;
+   margin: auto;
+}
+.div_Proofof_Income text{
+    color: white;
+    margin-left: 20px;
+    font-family: Segoe UI;
+    font-style: normal;
+    }
+.div_Paragraph_Third{
+     box-sizing: border-box;
+   border:  1px solid #C4C4C4;
+    width: 90%;
+   margin: auto;
+    height: 120px;
+    margin-bottom: 20px;
+   
+}
+
+.box{
+    display: inline-block;
+   margin-left: 20px;
+font-family: Segoe UI;
+font-style: normal;
+font-size: 12px;
+line-height: 15px;
+}
+.p_1,{
+    font-family: Segoe UI;
+    font-size: 12px;
+}
+.p_commnets text{
+  margin-left: 20px;
+    font-family: Segoe UI;
+    font-size: 12px;
+}
+
+/*------------------------------------Banking Information---------------------------------------------------------*/
+.BankingInformation{
+     background: #2DC3E8;
+    margin-top: 20px;
+     width: 90%;
+   margin: auto;
+}
+.BankingInformation text{
+    color: white;
+    margin-left: 20px;
+}
+.div_Paragraph_Forth{
+    box-sizing: border-box;
+   border:  1px solid #C4C4C4;
+    width: 90%;
+   margin: auto; 
+    margin-bottom: 20px;
+}
+.BankingInfo_box{
+   display: inline-block;
+   margin-left: 20px;
+font-family: Segoe UI;
+font-style: normal;
+font-size: 12px;
+line-height: 15px;
+}
+/*--------------------------------------Other Incvome Information--------------------------------------------------------------------------------*/
+.OtherInformation{
+     background: #2DC3E8;
+    margin-top: 20px;
+     width: 90%;
+   margin: auto;
+}
+.OtherInformation text{
+    color: white;
+    margin-left: 20px;
+}
+.div_Paragraph_Fifth{
+    box-sizing: border-box;
+   border:  1px solid #C4C4C4;
+    width: 90%;
+   margin: auto; 
+    margin-bottom: 20px;
+}
+.OtherInfo_box{
+   display: flex;
+   margin-left: 20px;
+font-family: Segoe UI;
+font-style: normal;
+font-size: 12px;
+line-height: 15px;
+ }
+.p_9{
+    margin-left: 80px
+}
+/*-------------------------------------------Other Document Info--------------------------------------------------------------------------------------------*/
+.DocumentInformation{
+       background: #2DC3E8;
+    margin-top: 20px;
+     width: 90%;
+   margin: auto;
+    
+}
+.DocumentInformation text{
+      color: white;
+    margin-left: 20px;
+}
+.DocumentInformation_text{
+     box-sizing: border-box;
+   border:  1px solid #C4C4C4;
+    width: 90%;
+   margin: auto; 
+    margin-bottom: 20px;
+    height: 70px;
+    
+}
+.DocumentInformation_text text{
+    font-family: Segoe UI;
+font-size: 13px;
+line-height: 16px;
+    margin-left: 20px;
+color: #585858;
+
+}
+/*------------------------------------------------------------------------------------------------------------------------------------------*/
+.section_button{
+        box-sizing: border-box;
+   border:  1px solid #C4C4C4;
+    width: 90%;
+   margin: auto; 
+    margin-bottom: 5px;
+    height: 50px;
+    margin-top: 0px;
+    
+}
+.btn{
+padding: 5px 55px;
+float: right;
+    margin-right: 25px;
+    margin-top: 10px;
+}
+.btn-full{
+ background: #2AABDB;
+    text-decoration: none;
+   border:  1px solid #C4C4C4;
+    color: white;
+   text-align: center;
+}
